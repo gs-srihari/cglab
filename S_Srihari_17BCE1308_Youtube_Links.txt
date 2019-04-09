@@ -1,0 +1,8 @@
+Youtube link for Digital Assignment II
+https://www.youtube.com/watch?v=g_FLzXDWGNs
+Youtube link for Lab Experiments
+Beizer Curves -https://www.youtube.com/watch?v=9LL8PIRe2k4
+Perspective Projection -https://www.youtube.com/watch?v=Sypgw08ZDO0
+Creating a GIF Image -https://www.youtube.com/watch?v=v0bBENc4jCI&t=13s
+Composite Transformations-https://www.youtube.com/watch?v=SQNy9qFDaFc&t=9s
+Digital Assignment I,Modelling,Breshenham Line Drawing Algorithm,Line Clipping,Polygon Clipping and L-System met in person and gave
